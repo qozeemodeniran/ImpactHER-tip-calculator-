@@ -11,3 +11,5 @@ Kindly send us a fully functional code that you have written. (e.g a code that c
 Note that this is a basic example and the ideal candidate should be able to create more elaborate codes.
 
 Submission deadline 11:00 PM, 17th of September, 2020
+
+
