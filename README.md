@@ -13,3 +13,7 @@ Note that this is a basic example and the ideal candidate should be able to crea
 Submission deadline 11:00 PM, 17th of September, 2020
 
 
+
+<img src="http://g.recordit.co/jNGUNPatT8.gif" width=250>
+
+
